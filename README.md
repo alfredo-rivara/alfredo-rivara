@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Ruby
 - 💞️ I’m looking to collaborate on open source
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Loosehead prop
+- ⚡ Fun fact: also studied History.
 
 <!---
 alfredo-rivara/alfredo-rivara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
