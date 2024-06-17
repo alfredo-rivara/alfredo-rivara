@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @alfredo-rivara
-- 👀 I’m interested in Python, Ruby, SQL
-- 🌱 I’m currently learning Ruby
+- 👀 I’m interested in Python, Ruby, SQL.
+- 🌱 I’m currently learning Ruby on Rails, HTML/CSS, Bootstrap, Javascript, Git.
 - 💞️ I’m looking to collaborate on open source
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: also studied History.
+- ⚡ Fun fact: degree in History.
 
 <!---
 alfredo-rivara/alfredo-rivara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
