@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @alfredo-rivara
-- 👀 I’m interested in Python, Ruby, SQL.
-- 🌱 I’m currently learning Ruby on Rails, HTML/CSS, Bootstrap, Javascript, Git.
-- 💞️ I’m looking to collaborate on open source
-- 😄 Pronouns: he/him
+- 👀 I’m interested in Python, Ruby, SQL, VBA.
+- 🌱 I’m currently learning Ruby on Rails, HTML/CSS, Bootstrap, Javascript, jQuery, Git.
+- 💞️ I’m looking to collaborate on open source.
+- 😄 Pronouns: he/him.
 - ⚡ Fun fact: degree in History.
 
 <!---
