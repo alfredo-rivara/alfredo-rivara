@@ -1,6 +1,6 @@
 ¡Hola! soy Matías Alfredo Rivara 🇨🇱
 
-👀 Lenguajes y motores de DB preferidos
+👀 Lenguajes de programación, de marcado, y motores de DB preferidos
 
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
