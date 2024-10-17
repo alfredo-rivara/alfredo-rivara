@@ -1,4 +1,4 @@
-¡Hola! soy @alfredo-rivara, desarrollador fullstack.
+¡Hola! soy Matías Alfredo Rivara 🇨🇱
 
 👀 Lenguajes y motores de DB preferidos
 
@@ -24,9 +24,9 @@
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-⚡ Social
+⚡ ¿Tienes un proyecto en mente? Escríbeme:
 
-![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+[![Linkedin: alfredo-rivara](https://img.shields.io/badge/alfredo-rivara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-rivara/)](https://www.linkedin.com/in/alfredo-rivara/)
 
 <!---
 alfredo-rivara/alfredo-rivara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
