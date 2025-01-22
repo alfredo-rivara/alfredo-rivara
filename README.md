@@ -30,7 +30,7 @@ Programador fullstack de Ruby on Rails.
 
 matias.rivara.t@gmail.com
 
-[![Linkedin: alfredo-rivara](https://img.shields.io/badge/alfredo-rivara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-rivara/)](https://www.linkedin.com/in/alfredo-rivara/)
+Linked-in: [![Linkedin: alfredo-rivara](https://img.shields.io/badge/alfredo-rivara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-rivara/)](https://www.linkedin.com/in/alfredo-rivara/)
 
 <!---
 alfredo-rivara/alfredo-rivara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
