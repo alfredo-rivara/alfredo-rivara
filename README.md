@@ -28,6 +28,8 @@ Programador fullstack de Ruby on Rails.
 
 ⚡ ¿Tienes un proyecto en mente? Escríbeme: / Do you have a project in mind? Contact me:
 
+matias.rivara.t@gmail.com
+
 [![Linkedin: alfredo-rivara](https://img.shields.io/badge/alfredo-rivara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-rivara/)](https://www.linkedin.com/in/alfredo-rivara/)
 
 <!---
