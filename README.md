@@ -1,6 +1,6 @@
 ¡Hola! soy Matías Alfredo Rivara 🇨🇱
 
-👀 Lenguajes y DB preferidos
+👀 Lenguajes y DB / Languages and database:
 
 ![image](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) 
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -9,22 +9,22 @@
 ![image](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![image](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-🖥️ Frameworks
+🖥️ Frameworks:
 
 ![image](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-🐧 Sistemas operativos preferidos
+🐧 Sistemas operativos / Operative systems:
 
 ![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![image](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-🌱 Aprendiendo
+🌱 Aprendiendo / Learning
 
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-⚡ ¿Tienes un proyecto en mente? Escríbeme:
+⚡ ¿Tienes un proyecto en mente? Escríbeme: / Do you have a project in mind? Contact me:
 
 [![Linkedin: alfredo-rivara](https://img.shields.io/badge/alfredo-rivara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alfredo-rivara/)](https://www.linkedin.com/in/alfredo-rivara/)
 
