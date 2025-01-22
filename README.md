@@ -1,4 +1,5 @@
 ¡Hola! soy Matías Alfredo Rivara 🇨🇱
+Programador fullstack de Ruby on Rails.
 
 👀 Lenguajes y DB / Languages and database:
 
